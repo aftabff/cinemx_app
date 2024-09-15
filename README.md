@@ -5,7 +5,7 @@ A complete React js movie application.
 
 ---
 
-## Efforts br [Aftab Alam](https://www.linkedin.com/in/aftab-alam-49994825a/)
+## Efforts by [Aftab Alam](https://www.linkedin.com/in/aftab-alam-49994825a/)
 
 ---
 
