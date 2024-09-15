@@ -5,7 +5,7 @@ A complete React js movie application.
 
 ---
 
-### Made with ❤️ by [Dulanjali Senarathna](https://www.linkedin.com/in/dulanjali-senarathna/)
+## Efforts br [Aftab Alam](https://www.linkedin.com/in/aftab-alam-49994825a/)
 
 ---
 
@@ -24,8 +24,9 @@ Cinemx contains all the functionalities that a movie website should have. Users 
 
 ## Requirements
 
-- Basic ReactJs knowledge
 - Basic HTML, SCSS knowledge
+- Basic JavaScript knowledge
+- Basic ReactJs knowledge
 
 ## Getting Started
 
@@ -59,10 +60,6 @@ basics of html, css, javascript and some basic knowledge of react is enough to s
 The project is for the people who wanna get more skilled in `ReactJs`.
 
 ---
-
-## Feedback
-
-If you have any feedback, please reach out to us at [Dulanjali Senarathna](https://www.behance.net/dulanjasenarathna)
 
 Happy Coding! 🚀
 
